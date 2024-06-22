@@ -14,3 +14,11 @@ This application takes a video URL as input and utilizes OpenAI's advanced langu
 - **Easy Deployment**: Simple Python script for straightforward usage.
 
 
+## Credits
+
+- **OpenAI**: For providing the Whisper model.
+- **PyTorch**: Deep learning framework used for model implementation.
+- **PyTube**: Library for downloading YouTube videos.
+- **Your Name**: Developer and creator of this project.
+
+
